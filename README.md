@@ -10,3 +10,5 @@
 5. 구글 지도 사용
 6. 대구대학교 흡연장 위치 
 
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/48404941/82673238-7cafdf80-9c7c-11ea-899c-d5895f69aa2f.gif)
